@@ -1,7 +1,7 @@
 ## Project: E-Commerce Data Analysis
 
 ### Overview
-This project presents is a comprehensive analysis of an e-commerce dataset. The dataset contains information about shops, products, and listings, including details like product titles, descriptions, prices, sold counts, and item preferences.
+This project is a comprehensive analysis of an e-commerce dataset. The dataset contains information about shops, products, and listings, including details like product titles, descriptions, prices, sold counts, and item preferences.
 
 ### Key Features
 - **Duplicate Listing Identification**: The notebook includes a method to identify duplicate listings within each shop. Duplicates are determined based on identical product titles, descriptions, and prices.
